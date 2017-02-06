@@ -115,7 +115,10 @@
   width: 100%;
 }
 .ar3 {
-  display:block;
+  position: relative;
+  width: auto ;
+  max-width: 100% ;
+  height: auto ;
 }
 @media(min-width:390px){
   .header2 p {
